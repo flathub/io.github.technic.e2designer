@@ -1,0 +1,12 @@
+diff --git a/misc/e2designer.appdata.xml b/misc/e2designer.appdata.xml
+index 674a69a..66a6a48 100644
+--- a/misc/e2designer.appdata.xml
++++ b/misc/e2designer.appdata.xml
+@@ -5,6 +5,7 @@
+         <metadata_license>CC0-1.0</metadata_license>
+         <project_license>GPL-3.0</project_license>
+         <name>e2designer</name>
++        <developer_name>technic</developer_name>
+         <summary>Skin editor for enigma2 written with Qt5</summary>
+         <description>
+                 <p>Provides graphical interface for editing skin.xml files used in the enigma2 set-top-box software.</p>
