@@ -1,5 +1,4 @@
 app-id: "io.github.technic.e2designer"
-end-of-life: "This application is no longer maintained"
 runtime: org.kde.Platform
 runtime-version: "5.14"
 sdk: org.kde.Sdk
