@@ -22,3 +22,5 @@ modules:
       - type: git
         url: https://gitlab.com/technic93/e2designer.git
         commit: a0898efce56b895c6a61ed519aa97b93bab3804a
+      - type: patch
+        path: appdata.patch
